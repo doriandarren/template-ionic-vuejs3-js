@@ -1,0 +1,7 @@
+{
+  "name": "fleetDriver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
